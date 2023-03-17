@@ -14,6 +14,40 @@ The goal of this app is to help us bring all these parameters together, show emp
 Contests (maybe rewards) and gamification aspects convince our employees to use the app on a daily basis.
 Overall, creativity is the most important factor when it comes to the development of this solution. Our expectation is the development and creation of a high quality user experience that makes sense, so that people really want to use the platform resp. the app and include it into their "daily business".
 
+### Data
+Employees should be able to enter individual and public corporate / personal data manually. Also, incorporating external data sources could be valuable. Those can provide a more comprehensive and comparative view of the company’s sustainability performance. For example, the app can integrate with public databases on energy consumption or carbon emissions to benchmark the company’s performance against industry standards or competitors.
+
+The currently valid corporate sustainability strategy is mandatory until 2026 and consists of 8 strategic fields of action. You are being asked to find creative ways to integrate aspects of the sustainability goals wherever possible (not mandatory).
+1.	Greenhouse gas emissions and energy
+•	We commit to science-based climate targets in accordance with the Science Based Targets Initiative (SBTi).
+•	We reduce our absolute greenhouse gas emissions by 21% by 
+2026 (Scope 1/2)
+•	We develop targets to reduce greenhouse gas emissions in our supply chain (Scope 3) and promote corresponding measures and projects
+2.	Water
+•	By 2026, we will reduce water consumption in our operations by 10% in non-risk areas and by 50% per unit of goods sold in risk areas.
+•	We are optimizing our wastewater management.
+3.	Disposal and recycling
+•	By 2026, we will reduce operational food losses to below 1%.
+•	By 2026, we will increase the share of self-produced, recyclable end-user packaging to at least 50%. 
+4.	Ecosystems
+•	We maintain sales of organic farming, animal husbandry and fish farming product labels at CHF 370 million.
+•	By 2026, 72% of our fish and seafood range is rated "recommended" or "highly recommended" by WWF.
+•	We source defined critical plant and animal raw materials, such as palm oil or soy, from deforestation- and transformation-free sources with a vision of "Zero Deforestation" in our supply chain.
+5.	Animal welfare
+•	We have implemented a company-wide animal welfare policy on animal welfare aspects by 2022.
+•	37% of our animal raw materials and products across the Bell Food Group (60% in Bell Switzerland) are certified with an animal welfare product label by 2026.
+6.	Safety and health in the workplace 
+•	We promote the physical and mental health of all employees
+•	We have introduced a management system for occupational health and safety with a uniform standard at 100% of our operations by 2026.
+7.	Conditions of employment (social sustainability)
+As an attractive employer
+•	we offer modern employment conditions,
+•	actively promote the respect of human rights in our supply chain
+•	require 100% of our direct suppliers (Tier-1) with a high social risk to have a valid social standard audit/certificate by 2026.
+8.	Governance
+•	We promote fair and ethical corporate governance and responsible tax policies across the entire supply chain
+•	We incorporate ESG criteria as part of comprehensive risk and financial management by 2026.
+ESG = Environment Social Governance
 
 
 ## <p align="center"> The Pitch: </p>
