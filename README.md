@@ -35,4 +35,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. D
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 
 We offer the winning team a long weekend in Madrid including flight and hotel. On Friday you will visit with us our production facility in Fuensalida and taste our fine Spanish specialties. The weekend will be free for you to explore the beautiful city of
- ![Bell Food Group Spain] (https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/a647a86187ccc7c7a651ff5909026c42911f03f6/SanchezAlcaraz-scaled.jpg)
+ ![Bell Food Group Spain](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/a647a86187ccc7c7a651ff5909026c42911f03f6/SanchezAlcaraz-scaled.jpg)
