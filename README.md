@@ -87,11 +87,10 @@ How attractive is it for the employee to use the app. How meaningful are the key
 ### - Delivered Presentation (10 %)
 How successful is the team's presentation (format and content, presentation skills,etc.)? Is it clear what the team wanted to achieve and do the other evaluation criteria play in the same direction? Is the team spirit recognizable? Are all team-members having a share?
 
-
 ## <p align="center"> Point of Contact: </p>
 
 <p align="center"> Sven, Clara, Maria, Markus, Selina, Anabelle, Christine, Nora and Harry will be glad to answer your questions during the Deep Dive.
-We’ll also be available on Discord. </p>
+  We’ll also be available on Discord. </p>
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
