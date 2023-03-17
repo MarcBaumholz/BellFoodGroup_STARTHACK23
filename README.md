@@ -67,7 +67,7 @@ Employees in all areas of activity of the Bell Food Group can use the app to mea
 
 ##  <p align="center"> Resources: </p>
 - Here you will find a presentation about our [Sustainability Strategy](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/7661b5fe55cd564e55a497a08adb61145218a3f7/Bell%20Food%20Group%20Presentation%20Sustainability.pdf)
-- consectetur adipiscing elit
+- On Monday we will provide a dataset on energy data of 5 production plants as .CSV
 
 
 ## <p align="center"> Judging Criteria: </p> 
