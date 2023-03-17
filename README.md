@@ -69,7 +69,7 @@ Employees in all areas of activity of the Bell Food Group can use the app to mea
 Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus semper dui semper ante condimentum commodo. Sed eget odio ac odio rutrum viverra eget ut dui. Sed scelerisque sem sit amet auctor gravida. Curabitur auctor urna quis lacus tempus luctus. Phasellus dictum erat sit amet nulla commodo egestas. Suspendisse potenti. Duis quis justo ut quam mollis venenatis vel ut ipsum. Integer ornare, neque ut aliquam convallis, odio eros rutrum quam, non pharetra turpis nisl ac arcu. Fusce in nulla tempor, semper nisi eu, sollicitudin est.
 
 ##  <p align="center"> Resources: </p>
-- Lorem ipsum dolor sit amet
+- Here you will find a presentation about our Sustainability Strategy [Duck Duck Go](https://duckduckgo.com)
 - consectetur adipiscing elit
 
 
@@ -90,7 +90,7 @@ How successful is the team's presentation (format and content, presentation skil
 ## <p align="center"> Point of Contact: </p>
 
 <p align="center"> Sven, Clara, Maria, Markus, Selina, Anabelle, Christine, Nora and Harry will be glad to answer your questions during the Deep Dive.
-  We’ll also be available on Discord. </p>
+We’ll also be available on Discord. </p>
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
