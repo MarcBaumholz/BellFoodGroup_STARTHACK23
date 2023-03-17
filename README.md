@@ -29,7 +29,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. D
 
 ## <p align="center"> Point of Contact: </p>
 
-<p align="center"> Sven, Clara, Maria, Markus, Selina, Anabelle, Christine, Nora and Harry will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
+<p align="center"> Sven, Clara, Maria, Markus, Selina, Anabelle, Christine, Nora and Harry will be glad to answer your questions during the Deep Dive.
+We’ll also be available on Discord. </p>
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
