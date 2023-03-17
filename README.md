@@ -69,7 +69,7 @@ Employees in all areas of activity of the Bell Food Group can use the app to mea
 Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus semper dui semper ante condimentum commodo. Sed eget odio ac odio rutrum viverra eget ut dui. Sed scelerisque sem sit amet auctor gravida. Curabitur auctor urna quis lacus tempus luctus. Phasellus dictum erat sit amet nulla commodo egestas. Suspendisse potenti. Duis quis justo ut quam mollis venenatis vel ut ipsum. Integer ornare, neque ut aliquam convallis, odio eros rutrum quam, non pharetra turpis nisl ac arcu. Fusce in nulla tempor, semper nisi eu, sollicitudin est.
 
 ##  <p align="center"> Resources: </p>
-- Here you will find a presentation about our Sustainability Strategy [Duck Duck Go](https://duckduckgo.com)
+- Here you will find a presentation about our [Sustainability Strategy](Bell Food Group Presentation Sustainability.pdf)
 - consectetur adipiscing elit
 
 
