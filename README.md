@@ -38,5 +38,3 @@ We offer the winning team a long weekend in Madrid including flight and hotel. O
 
 <img src="images/puerta-alcala-ubicada-madrid-espana.jpg" alt="Madrid" width="500">
 
-<p align="center"> <img src="images/VictorTorres_SanchezAlcarazFuensalida_216.jpg" alt="Bell Food Group Spain" width="500">
-
