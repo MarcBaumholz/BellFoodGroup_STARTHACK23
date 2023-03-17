@@ -69,7 +69,7 @@ Employees in all areas of activity of the Bell Food Group can use the app to mea
 Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus semper dui semper ante condimentum commodo. Sed eget odio ac odio rutrum viverra eget ut dui. Sed scelerisque sem sit amet auctor gravida. Curabitur auctor urna quis lacus tempus luctus. Phasellus dictum erat sit amet nulla commodo egestas. Suspendisse potenti. Duis quis justo ut quam mollis venenatis vel ut ipsum. Integer ornare, neque ut aliquam convallis, odio eros rutrum quam, non pharetra turpis nisl ac arcu. Fusce in nulla tempor, semper nisi eu, sollicitudin est.
 
 ##  <p align="center"> Resources: </p>
-- Here you will find a presentation about our [Sustainability Strategy](Bell Food Group Presentation Sustainability.pdf)
+- Here you will find a presentation about our [Sustainability Strategy](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/7661b5fe55cd564e55a497a08adb61145218a3f7/Bell%20Food%20Group%20Presentation%20Sustainability.pdf)
 - consectetur adipiscing elit
 
 
