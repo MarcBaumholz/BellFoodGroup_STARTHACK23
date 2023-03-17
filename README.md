@@ -53,9 +53,6 @@ The currently valid corporate sustainability strategy (check the resources) is m
 ### Technology
 The goal of the app is to integrate as many existing parameters as we can. Existing interfaces (e.g. electricity management) are used and publicly available key figures (e.g. CO2 emission for air travel) can also be used. However, there are no restrictions on the technologies to be used. There is no default for the programming and the tools used. Your creativity is needed here.
 
-### Use Case 
-Employees in all areas of activity of the Bell Food Group can use the app to measure their contribution to our sustainability strategy. Real data from our productions are to be supplemented with publicly available key figures in order to obtain as comprehensive a picture as possible. The app should be intuitive and easy to use, and it should be fun for employees to determine their contribution. 
-
 ## <p align="center"> The Pitch: </p>
 
 <p align="center"> Insert Pitchdeck here </p>
@@ -66,7 +63,7 @@ Employees in all areas of activity of the Bell Food Group can use the app to mea
 
 ## <p align="center"> Further Information: </p>
 
-Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus semper dui semper ante condimentum commodo. Sed eget odio ac odio rutrum viverra eget ut dui. Sed scelerisque sem sit amet auctor gravida. Curabitur auctor urna quis lacus tempus luctus. Phasellus dictum erat sit amet nulla commodo egestas. Suspendisse potenti. Duis quis justo ut quam mollis venenatis vel ut ipsum. Integer ornare, neque ut aliquam convallis, odio eros rutrum quam, non pharetra turpis nisl ac arcu. Fusce in nulla tempor, semper nisi eu, sollicitudin est.
+Employees in all areas of activity of the Bell Food Group can use the app to measure their contribution to our sustainability strategy. Real data from our productions are to be supplemented with publicly available key figures in order to obtain as comprehensive a picture as possible. The app should be intuitive and easy to use, and it should be fun for employees to determine their contribution. 
 
 ##  <p align="center"> Resources: </p>
 - Here you will find a presentation about our [Sustainability Strategy](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/7661b5fe55cd564e55a497a08adb61145218a3f7/Bell%20Food%20Group%20Presentation%20Sustainability.pdf)
