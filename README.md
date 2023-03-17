@@ -36,6 +36,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. D
 
 We offer the winning team a long weekend in Madrid including flight and hotel. On Friday you will visit with us our production facility in Fuensalida and taste our fine Spanish specialties. The weekend will be free for you to explore the beautiful city of
 
-<img src="images/puerta-alcala-ubicada-madrid-espana.jpg" alt="Madrid" height="200"> <img src="images/voucher.jpg.jpg" alt="voucher" height="200"> <img src="images/Front-Side.jpg" alt="Site in Fuensalida" height="200">
+<img src="images/puerta-alcala-ubicada-madrid-espana.jpg" alt="Madrid" height="200"> <img src="images/voucher.jpg" alt="voucher" height="200"> <img src="images/Front-Side.jpg" alt="Site in Fuensalida" height="200">
 
 
