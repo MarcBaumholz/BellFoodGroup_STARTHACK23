@@ -50,6 +50,11 @@ The currently valid corporate sustainability strategy (check the resources) is m
 -	We promote fair and ethical corporate governance and responsible tax policies across the entire supply chain
 -	We incorporate ESG criteria as part of comprehensive risk and financial management by 2026. ESG = Environment Social Governance
 
+### Technology
+The goal of the app is to integrate as many existing parameters as we can. Existing interfaces (e.g. electricity management) are used and publicly available key figures (e.g. CO2 emission for air travel) can also be used. However, there are no restrictions on the technologies to be used. There is no default for the programming and the tools used. Your creativity is needed here.
+
+### Use Case 
+Employees in all areas of activity of the Bell Food Group can use the app to measure their contribution to our sustainability strategy. Real data from our productions are to be supplemented with publicly available key figures in order to obtain as comprehensive a picture as possible. The app should be intuitive and easy to use, and it should be fun for employees to determine their contribution. 
 
 ## <p align="center"> The Pitch: </p>
 
@@ -70,7 +75,18 @@ Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus se
 
 ## <p align="center"> Judging Criteria: </p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. Donec euismod diam sit amet fermentum imperdiet. Donec justo mi, lacinia sed dolor vel, convallis tincidunt ligula. Duis suscipit ante tellus, lacinia venenatis lorem suscipit in. Sed ac ipsum tincidunt, consequat est ut, molestie nunc. Donec efficitur risus ut erat luctus, id congue odio rhoncus. Curabitur neque lorem, maximus at est sit amet, semper vehicula libero. Aliquam a fermentum leo. Mauris rhoncus lorem sed lorem auctor, eu tempus risus ultrices. Proin condimentum sem at commodo congue.
+### - Number of different UseCases integrate in the App (50 %)
+The App its self and how many KPI of our 8 strategic fields of action can be reported. How does the employee get the most comprehensive picture possible of his or her ecological footprint? (8 Strategic fields in expected product) 
+
+### - Feasibility and Usability (20 %)
+What steps are needed to make this solution a reality? Here we look at the reproducibility of other situations and how users without deep technical understanding can adapt these solutions. How costly is it for us to further develop and use the solution?
+
+### - Creativity, Innovation and Vision (20 %)
+How attractive is it for the employee to use the app. How meaningful are the key figures determined for tracking our sustainability strategy? Which aspects increase engagement and motivate employees to improve their sustainability efforts? Are  gamification elements such as leaderboards, badges, and rewards to incentivize and recognize employees’ sustainable actions included? Does the app offer educational content and resources to help employees understand the importance of sustainability and their role in achieving the company’s sustainability goals?
+
+### - Delivered Presentation (10 %)
+How successful is the team's presentation (format and content, presentation skills,etc.)? Is it clear what the team wanted to achieve and do the other evaluation criteria play in the same direction? Is the team spirit recognizable? Are all team-members having a share?
+
 
 ## <p align="center"> Point of Contact: </p>
 
