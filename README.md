@@ -2,9 +2,10 @@
 
 ## <p align="center"> Case Introduction: </p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. Donec euismod diam sit amet fermentum imperdiet. Donec justo mi, lacinia sed dolor vel, convallis tincidunt ligula. Duis suscipit ante tellus, lacinia venenatis lorem suscipit in. Sed ac ipsum tincidunt, consequat est ut, molestie nunc. Donec efficitur risus ut erat luctus, id congue odio rhoncus. Curabitur neque lorem, maximus at est sit amet, semper vehicula libero. Aliquam a fermentum leo. Mauris rhoncus lorem sed lorem auctor, eu tempus risus ultrices. Proin condimentum sem at commodo congue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque dapibus, tortor in feugiat varius, sem purus aliquet quam, vel volutpat lorem nibh eu lacus. Donec massa ligula, auctor vitae erat eget, vulputate sagittis nisl. Praesent iaculis, lectus ut volutpat interdum, eros odio vestibulum eros, eget porta tellus lectus vitae massa. 
+# Problem
+"We take responsibility" is one of the three missions have been defined for the Bell Food Group with which we want to differentiate ourselves as a company. Our employees make important decisions every day to improve sustainability in our company. 
+To raise awareness among our employees, we want to develop an app that shows them their "ecological footprint" in a playful way and helps them to record and improve it. As the majority of our workforce does not have access to our company network, an App would be a user-friendly product and it would ensure the possibility to participate all employees. 
 
-Morbi vitae diam at diam pellentesque tempor. Vivamus porttitor turpis quis felis accumsan, ut imperdiet dui tincidunt. Aenean a est dapibus, dictum velit at, eleifend erat. Proin ut faucibus dolor. Vestibulum pulvinar magna at consectetur posuere. Sed in dolor id enim tempus malesuada. Pellentesque nec dignissim erat, ut feugiat turpis.
 
 ## <p align="center"> The Pitch: </p>
 
