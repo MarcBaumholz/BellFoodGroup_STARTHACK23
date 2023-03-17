@@ -73,7 +73,7 @@ Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus se
 - consectetur adipiscing elit
 
 
-## <p align="center"> Judging Criteria: </p>
+## <p align="center"> Judging Criteria: </p> 
 
 ### - Number of different UseCases integrate in the App (50 %)
 The App its self and how many KPI of our 8 strategic fields of action can be reported. How does the employee get the most comprehensive picture possible of his or her ecological footprint? (8 Strategic fields in expected product) 
