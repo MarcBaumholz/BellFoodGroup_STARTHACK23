@@ -1,5 +1,7 @@
 # <p align="center"> START Hack 2023 - Bell Food Group Case </p>
+
 <img src="images/Banner.png" alt="Madrid" width="800">
+
 ## <p align="center"> Case Introduction: </p>
 
 ### Problem
