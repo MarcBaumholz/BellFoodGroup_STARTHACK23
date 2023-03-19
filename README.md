@@ -5,7 +5,7 @@
 ## <p align="center"> Case Introduction: </p>
 
 ### Problem
-"We take responsibility" is one of the three missions have been defined for the Bell Food Group with which we want to differentiate ourselves as a company. Our employees make important decisions every day to improve sustainability in our company. 
+"We take responsibility" is one of the three missions that have been defined for the Bell Food Group with which we want to differentiate ourselves as a company. Our employees make important decisions every day to improve sustainability in our company. 
 To raise awareness among our employees, we want to develop an app that shows them their "ecological footprint" in a playful way and helps them to record and improve it. As the majority of our workforce does not have access to our company network, an App would be a user-friendly product and it would ensure the possibility to participate all employees. 
 
 ### Expected Final Product
