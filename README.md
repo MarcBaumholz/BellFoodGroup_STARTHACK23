@@ -22,7 +22,7 @@ Employees should be able to enter individual and public corporate / personal dat
 The currently valid corporate sustainability strategy (check the resources) is mandatory until 2026 and consists of 8 strategic fields of action. You are being asked to find creative ways to integrate aspects of the sustainability goals wherever possible (not mandatory).
 
 #### 1. Greenhouse gas emissions and energy
-- We commit to science-based climate targets in accordance with the Science Based Targets Initiative (SBTi).
+- We commit to science-based climate targets in accordance with the Science Based Targets Initiative (SBTi)
 -	We reduce our absolute greenhouse gas emissions by 21% by 
 2026 (Scope 1/2)
 -	We develop targets to reduce greenhouse gas emissions in our supply chain (Scope 3) and promote corresponding measures and projects
