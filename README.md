@@ -109,7 +109,7 @@ We are also available via Discord. </p>
 
 We offer the winning team a long weekend in Madrid including flight and hotel. On Friday you will visit with us our production facility in Fuensalida and taste our fine Spanish specialties. The weekend will be free for you to explore the beautiful city of Madrid.
 
-<p align="center"> <img src="images/puerta-alcala-ubicada-madrid-espana.jpg" alt="Madrid" height="190"> <img src="images/voucher.jpg" alt="voucher" height="190"> <img src="images/Front-Side.jpg" alt="Site in Fuensalida" height="190">
+<p align="center"> <img src="images/puerta-alcala-ubicada-madrid-espana.jpg" alt="Madrid" height="180"> <img src="images/voucher.jpg" alt="voucher" height="180"> <img src="images/Front-Side.jpg" alt="Site in Fuensalida" height="180">
 
 
 
