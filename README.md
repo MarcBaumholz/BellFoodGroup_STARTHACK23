@@ -56,6 +56,8 @@ No live interfaces from Bell Food Group systems are to be included for this app 
 
 ## <p align="center"> The Pitch: </p>
 
+Here you will find izr Pitch presentation [Pitch Bell Food Group](20230322_Bell Food Group_HackCase.pdf)
+
 <p align="center"> Insert Pitchdeck here </p>
 
 ## <p align="center"> Deep Dive Slides: </p>
