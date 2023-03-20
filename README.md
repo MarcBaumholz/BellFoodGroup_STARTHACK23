@@ -93,10 +93,10 @@ How successful is the team's presentation (format and content, presentation skil
 
 ## <p align="center"> Point of Contact: </p>
 
-<img src="images/Linkedin_Sven.jpg" alt="Sven" height="30">
-<img src="images/Linkedin_Maria.jpg" alt="Sven" height="30">
-<img src="images/Linkedin_Clara.jpg" alt="Sven" height="30">
-<img src="images/Linkedin_Markus.jpg" alt="Sven" height="30">
+<img src="images/Linkedin_Sven.jpg" alt="Sven" height="100"> Sven Friedli, CIO 
+<img src="images/Linkedin_Maria.jpg" alt="Maria" height="100"> Maria Horvath, Talent Acquisition Manager
+<img src="images/Linkedin_Clara.jpg" alt="Clara" height="100"> Clara Beltrán Vásquez, Talent Acquisition Manager
+<img src="images/Linkedin_Markus.jpg" alt="Markus" height="100"> Markus Ettlin, Head of Smart Technologies
 
 <p align="center"> Sven, Clara, Maria, Markus, Selina, Anabelle, Christine, Nora and Harry will be glad to answer your questions during the Deep Dive.
 We’ll also be available on Discord. </p>
