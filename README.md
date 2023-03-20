@@ -93,6 +93,11 @@ How successful is the team's presentation (format and content, presentation skil
 
 ## <p align="center"> Point of Contact: </p>
 
+<img src="images/Linkedin_Sven.jpg" alt="Sven" height="30">
+<img src="images/Linkedin_Maria.jpg" alt="Sven" height="30">
+<img src="images/Linkedin_Clara.jpg" alt="Sven" height="30">
+<img src="images/Linkedin_Markus.jpg" alt="Sven" height="30">
+
 <p align="center"> Sven, Clara, Maria, Markus, Selina, Anabelle, Christine, Nora and Harry will be glad to answer your questions during the Deep Dive.
 We’ll also be available on Discord. </p>
 
