@@ -93,11 +93,11 @@ How successful is the team's presentation (format and content, presentation skil
 
 ## <p align="center"> Point of Contact: </p>
 
-<img src="images/Linkedin_Sven.jpg" alt="Sven" height="100"> Sven Friedli, CIO 
+<img src="images/Linkedin_Sven.jpg" alt="Sven" height="100"> Sven Friedli, CIO Linkedin, Mail 
 
 <img src="images/Linkedin_Maria.jpg" alt="Maria" height="100"> Maria Horvath, Talent Acquisition Manager
 
-<img src="images/Linkedin_Clara.jpg" alt="Clara" height="100"> Clara Beltrán Vásquez, Talent Acquisition Manager
+<img src="images/Linkedin_Clara.jpg" alt="Clara" height="100"> Clara Beltrán Vásquez, Talent Acquisition Manager, [LinkedIn](https://www.linkedin.com/in/clara-beltr%C3%A1n-v%C3%A1squez-68793219a/)
 
 <img src="images/Linkedin_Markus.jpg" alt="Markus" height="100"> Markus Ettlin, Head of Smart Technologies
 
