@@ -67,8 +67,9 @@ Employees in all areas of activity of the Bell Food Group can use the app to mea
 
 ##  <p align="center"> Resources: </p>
 - Here you will find a presentation about our [Sustainability Strategy](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/7661b5fe55cd564e55a497a08adb61145218a3f7/Bell%20Food%20Group%20Presentation%20Sustainability.pdf)
-- On Monday we will provide a dataset on energy data of 5 production plants as .CSV
 - For a detailed insight into our business here is the [Annual report Bell Food Group 2022](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/5fe3e08cab2503210697f93a32801ee25909f288/Annual%20report%20Bell%20Food%20Group%202022.pdf)
+- Here are a few examples of energy data from typical Bell Food Group production plants. The data sets go back three years and have data in the interval of 15 minutes. Typically, as in real life, the data is not complete and has gaps because the records did not work or because they do not exist.
+-  [Bell Schweiz - Zell](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/5f35c47484425354c48f5f4cc37bd008764745fe/Export_Energydata_Bell_CH_Zell.csv)
 
 
 ## <p align="center"> Judging Criteria: </p> 
