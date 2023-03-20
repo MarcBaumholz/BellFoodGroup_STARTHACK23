@@ -58,8 +58,6 @@ No live interfaces from Bell Food Group systems are to be included for this app 
 
 Here you will find the presentation [Pitch Bell Food Group](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/efec7b14aea8e466c995b7ef4271ebeefcb60577/20230322_Bell%20Food%20Group_HackCase.pdf) 
 
-<p align="center"> Insert Pitchdeck here </p>
-
 ## <p align="center"> Deep Dive Slides: </p>
 
 <p align="center"> Insert Deep Dive Slides here </p>
