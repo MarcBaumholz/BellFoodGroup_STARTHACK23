@@ -93,13 +93,13 @@ How successful is the team's presentation (format and content, presentation skil
 
 ## <p align="center"> Point of Contact: </p>
 
-<img src="images/Linkedin_Sven.jpg" alt="Sven" height="100"> Sven Friedli, CIO Linkedin, Mail 
+<img src="images/Linkedin_Sven.jpg" alt="Sven" height="100"> Sven Friedli, CIO, [LinkedIn](https://www.linkedin.com/in/sven-friedli-454265121/), [Mail](mailto:Sven.Friedli@bellfoodgroup.com)
 
-<img src="images/Linkedin_Maria.jpg" alt="Maria" height="100"> Maria Horvath, Talent Acquisition Manager
+<img src="images/Linkedin_Maria.jpg" alt="Maria" height="100"> Maria Horvath, Talent Acquisition Manager, [LinkedIn](https://www.linkedin.com/in/horvathmaria/), [Mail](mailto:Maria.horvath@bellfoodgroup.com)
 
 <img src="images/Linkedin_Clara.jpg" alt="Clara" height="100"> Clara Beltrán Vásquez, Talent Acquisition Manager, [LinkedIn](https://www.linkedin.com/in/clara-beltr%C3%A1n-v%C3%A1squez-68793219a/), [Mail](mailto:clara.beltranvasquez@bellfoodgroup.com)
 
-<img src="images/Linkedin_Markus.jpg" alt="Markus" height="100"> Markus Ettlin, Head of Smart Technologies
+<img src="images/Linkedin_Markus.jpg" alt="Markus" height="100"> Markus Ettlin, Head of Smart Technologies, [LinkedIn](https://www.linkedin.com/in/markusettlin/), [Mail](mailto:markus.ettlin@bellfoodgroup.com)
 
 <p align="center"> Sven, Clara, Maria, Markus, Selina, Anabelle, Christine, Nora and Harry will be glad to answer your questions during the Deep Dive.
 We’ll also be available on Discord. </p>
