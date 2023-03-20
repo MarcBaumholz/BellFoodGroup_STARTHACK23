@@ -101,8 +101,8 @@ How successful is the team's presentation (format and content, presentation skil
 
 <img src="images/Linkedin_Markus.jpg" alt="Markus" height="100"> Markus Ettlin, Head of Smart Technologies, [LinkedIn](https://www.linkedin.com/in/markusettlin/), [Mail](mailto:markus.ettlin@bellfoodgroup.com)
 
-<p align="center"> Sven, Clara, Maria, Markus, Selina, Anabelle, Christine, Nora and Harry will be glad to answer your questions during the Deep Dive.
-We’ll also be available on Discord. </p>
+Also with us are Selina, Anabelle, Christine, Nora and Harry. We will be happy to answer your questions during the Deep Dive.
+We are also available via Discord. </p>
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
