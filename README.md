@@ -97,7 +97,7 @@ How successful is the team's presentation (format and content, presentation skil
 
 <img src="images/Linkedin_Maria.jpg" alt="Maria" height="100"> Maria Horvath, Talent Acquisition Manager
 
-<img src="images/Linkedin_Clara.jpg" alt="Clara" height="100"> Clara Beltrán Vásquez, Talent Acquisition Manager, [LinkedIn](https://www.linkedin.com/in/clara-beltr%C3%A1n-v%C3%A1squez-68793219a/), [Mail](clara.beltranvasquez@bellfoodgroup.com)
+<img src="images/Linkedin_Clara.jpg" alt="Clara" height="100"> Clara Beltrán Vásquez, Talent Acquisition Manager, [LinkedIn](https://www.linkedin.com/in/clara-beltr%C3%A1n-v%C3%A1squez-68793219a/), [Mail](mailto:clara.beltranvasquez@bellfoodgroup.com)
 
 <img src="images/Linkedin_Markus.jpg" alt="Markus" height="100"> Markus Ettlin, Head of Smart Technologies
 
