@@ -52,6 +52,7 @@ The currently valid corporate sustainability strategy (check the resources) is m
 
 ### Technology
 The goal of the app is to integrate as many existing parameters as we can. Existing interfaces (e.g. electricity management) are used and publicly available key figures (e.g. CO2 emission for air travel) can also be used. However, there are no restrictions on the technologies to be used. There is no default for the programming and the tools used. Your creativity is needed here.
+No live interfaces from Bell Food Group systems are to be included for this app at this time. This will be taken into account in a later implementation of the app. The energy data provided from the production plants can be used from the .CSV files.
 
 ## <p align="center"> The Pitch: </p>
 
