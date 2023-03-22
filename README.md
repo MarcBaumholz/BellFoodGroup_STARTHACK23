@@ -93,6 +93,8 @@ How successful is the team's presentation (format and content, presentation skil
 
 ## <p align="center"> Point of Contact: </p>
 
+### During the time of the event we are gladly available for you on our Disocrd channel. 
+
 <img src="images/Linkedin_Sven.jpg" alt="Sven" height="100"> Sven Friedli, CIO, [LinkedIn](https://www.linkedin.com/in/sven-friedli-454265121/), [Mail](mailto:Sven.Friedli@bellfoodgroup.com)
 
 <img src="images/Linkedin_Maria.jpg" alt="Maria" height="100"> Maria Horvath, Talent Acquisition Manager, [LinkedIn](https://www.linkedin.com/in/horvathmaria/), [Mail](mailto:Maria.horvath@bellfoodgroup.com)
@@ -101,9 +103,7 @@ How successful is the team's presentation (format and content, presentation skil
 
 <img src="images/Linkedin_Markus.jpg" alt="Markus" height="100"> Markus Ettlin, Head of Smart Technologies, [LinkedIn](https://www.linkedin.com/in/markusettlin/), [Mail](mailto:markus.ettlin@bellfoodgroup.com)
 
-Also with us are Selina, Anabelle, Christine, Nora and Harry. We will be happy to answer your questions during the Deep Dive.
-We are also available via Discord. </p>
-
+Also with us are Selina, Anabelle, Christine, Nora and Harry. 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 
