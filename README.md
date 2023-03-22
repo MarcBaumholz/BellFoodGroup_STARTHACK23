@@ -60,7 +60,7 @@ Here you will find the presentation [Pitch Bell Food Group](https://github.com/S
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-<p align="center"> Insert Deep Dive Slides here </p>
+Here you will find the presentation [Pitch Bell Food Group]
 
 ## <p align="center"> Further Information: </p>
 
