@@ -60,7 +60,7 @@ Here you will find the presentation [Pitch Bell Food Group](https://github.com/S
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-Here you will find the detailed Information from the deep dive presentation [Deep Dive Bell Food Group](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/a553e6df3ccd79aeff1b78ea0334af3d92745316/20230322_Bell%20Food%20Group_DeepdiveHackCase.pdf(
+Here you will find the detailed Information from the deep dive presentation [Deep Dive Bell Food Group](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/a553e6df3ccd79aeff1b78ea0334af3d92745316/20230322_Bell%20Food%20Group_DeepdiveHackCase.pdf)
 
 ## <p align="center"> Further Information: </p>
 
