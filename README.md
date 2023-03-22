@@ -70,11 +70,11 @@ Employees in all areas of activity of the Bell Food Group can use the app to mea
 - Here you will find a presentation about our [Sustainability Strategy](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/7661b5fe55cd564e55a497a08adb61145218a3f7/Bell%20Food%20Group%20Presentation%20Sustainability.pdf)
 - For a detailed insight into our business here is the [Annual report Bell Food Group 2022](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/5fe3e08cab2503210697f93a32801ee25909f288/Annual%20report%20Bell%20Food%20Group%202022.pdf)
 - Here are a few examples of energy data from typical Bell Food Group production plants from diffrent divisions. The data sets go back three years and have data in the interval of 15 minutes. Typically, as in real life, the data is not complete and has gaps because the records did not work or because they do not exist.
-  - [Bell Schweiz - Zell](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/5f35c47484425354c48f5f4cc37bd008764745fe/Export_Energydata_Bell_CH_Zell.csv)
-  - [Bell Deutschland - Schiltach](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/5f35c47484425354c48f5f4cc37bd008764745fe/Export_Energydata_Bell_DE_Schiltach.csv)
-  - [Eisberg - Dällikon Feldhof](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/5f35c47484425354c48f5f4cc37bd008764745fe/Export_Energydata_Eisberg_DaellikonFeldhof.csv)
-  - [Hilcona - Orbe](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/5f35c47484425354c48f5f4cc37bd008764745fe/Export_Energydata_Hilcona_Orbe.csv)
-  - [Süddeutsche Truthahn AG - Ampfing](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/5f35c47484425354c48f5f4cc37bd008764745fe/Export_Energydata_Sueddeutsche_Truthahn_AG_Ampfing.csv)
+  - [Bell Schweiz - Zell](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/b5da27c9b3ffdee3330f597f148376db0ab17fcf/Export_Energydata_Bell_CH_Zell.xlsx)
+  - [Bell Deutschland - Schiltach](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/b5da27c9b3ffdee3330f597f148376db0ab17fcf/Export_Energydata_Bell_DE_Schiltach.xlsx)
+  - [Eisberg - Dällikon Feldhof](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/b5da27c9b3ffdee3330f597f148376db0ab17fcf/Export_Energydata_Eisberg_DaellikonFeldhof.xlsx)
+  - [Hilcona - Orbe]https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/b5da27c9b3ffdee3330f597f148376db0ab17fcf/Export_Energydata_Hilcona_Orbe.xlsx)
+  - [Süddeutsche Truthahn AG - Ampfing](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/b5da27c9b3ffdee3330f597f148376db0ab17fcf/Export_Energydata_Sueddeutsche_Truthahn_AG_Ampfing.xlsx)
 - Other resources for data can be freely chosen
   
 ## <p align="center"> Judging Criteria: </p> 
