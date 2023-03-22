@@ -93,7 +93,7 @@ How successful is the team's presentation (format and content, presentation skil
 
 ## <p align="center"> Point of Contact: </p>
 
-### During the time of the event we are gladly available for you on our [Disocrd channel] (ttps://discord.com/channels/943159146616852490/1080856714439557150)
+### During the time of the event we are gladly available for you on our [Disocrd channel](ttps://discord.com/channels/943159146616852490/1080856714439557150)
 
 <img src="images/Linkedin_Sven.jpg" alt="Sven" height="100"> Sven Friedli, CIO, [LinkedIn](https://www.linkedin.com/in/sven-friedli-454265121/), [Mail](mailto:Sven.Friedli@bellfoodgroup.com)
 
