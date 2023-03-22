@@ -92,7 +92,7 @@ How attractive is it for the employee to use the app. How meaningful are the key
 How successful is the team's presentation (format and content, presentation skills,etc.)? Is it clear what the team wanted to achieve and do the other evaluation criteria play in the same direction? Is the team spirit recognizable? Are all team-members having a share?
 
 ## <p align="center"> Point of Contact: </p> 
-[Disocrd channel](https://discord.com/channels/943159146616852490/1080856714439557150)
+[Disocrd](https://discord.com/channels/943159146616852490/1080856714439557150)
 
 During the time of the event we are gladly available for you on our [Disocrd channel](ttps://discord.com/channels/943159146616852490/1080856714439557150)
 
