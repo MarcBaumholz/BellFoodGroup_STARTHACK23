@@ -73,7 +73,7 @@ Employees in all areas of activity of the Bell Food Group can use the app to mea
   - [Bell Schweiz - Zell](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/b5da27c9b3ffdee3330f597f148376db0ab17fcf/Export_Energydata_Bell_CH_Zell.xlsx)
   - [Bell Deutschland - Schiltach](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/b5da27c9b3ffdee3330f597f148376db0ab17fcf/Export_Energydata_Bell_DE_Schiltach.xlsx)
   - [Eisberg - Dällikon Feldhof](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/b5da27c9b3ffdee3330f597f148376db0ab17fcf/Export_Energydata_Eisberg_DaellikonFeldhof.xlsx)
-  - [Hilcona - Orbe]https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/b5da27c9b3ffdee3330f597f148376db0ab17fcf/Export_Energydata_Hilcona_Orbe.xlsx)
+  - [Hilcona - Orbe](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/b5da27c9b3ffdee3330f597f148376db0ab17fcf/Export_Energydata_Hilcona_Orbe.xlsx)
   - [Süddeutsche Truthahn AG - Ampfing](https://github.com/START-Hack/BellFoodGroup_STARTHACK23/blob/b5da27c9b3ffdee3330f597f148376db0ab17fcf/Export_Energydata_Sueddeutsche_Truthahn_AG_Ampfing.xlsx)
 - Other resources for data can be freely chosen
   
