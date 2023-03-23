@@ -1,25 +1,4 @@
-SourceName,Hackaton_Werkeingang_Ampfing,Unnamed: 2,Unnamed: 3
-DPName,DE_Ampfing_Suetag_ELEG_FOR,DE_Ampfing_Suetag_WAEF_FOR,DE_Ampfing_Suetag_WASG_FOR
-Actual Source name,DE_Ampfing_Suetag_ELEG_FOR,DE_Ampfing_Suetag_WAEF_FOR,DE_Ampfing_Suetag_WASG_FOR
-Location,DE_Ampfing Sütag,DE_Ampfing Sütag,DE_Ampfing Sütag
-Description,Active energy plant input,Total external heat energy,Water supply at plant entrance
-Unit,kW,kW,m3/h
-Agg. Unit,kWh,kWh,m3
-Interpolation mode,LINEAR,DISCRETE,LINEAR
-Aggregation mode,SUMHRMED,SUMHRMED,COPYLAST
-Factor,1,1,1
-Status,ACTIVE,ACTIVE,ACTIVE
-Type,UNKNOWN,UNKNOWN,UNKNOWN
-Remark,,,
-Actual DP name,DE_Ampfing_Suetag_ELEG_FOR,DE_Ampfing_Suetag_WAEF_FOR,DE_Ampfing_Suetag_WASG_FOR
-Ext. System ID,,,
-Ext. System Group,,,
-PrimaryKey,12026,12038,12034
-DP Class,,,
-Formula,"join(slice( [e3mBox_Ampfing_suetag.V_E_1_01_Eewe_RP] ,""01.01.2000 00:00:00..01.01.2020 00:00:00""),slice([medas_Bell.E_1_01_Eewe_LG_RP],""01.01.2020 00:00:00..""))",[medas_Bell.W_1_01_Wgas_LG_RP]   , [DE_Ampfing_Suetag_Wasser.D_1_01_Dltg_HAND]  
-Def. Source,,,
-Compute on,RAW,RAW,RAW
-Timestamp:,,,
+ts,Active energy plant input,Total external heat energy,Water supply at plant entrance
 2014-01-01 00:00:00,546.901882,441.689516,12327
 2014-02-01 00:00:00,542.333333,471.098214,11606
 2014-03-01 00:00:00,546.280914,421.842742,13395

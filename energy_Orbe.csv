@@ -1,25 +1,4 @@
-SourceName,Hackaton_Werkeingang_Orbe,Unnamed: 2,Unnamed: 3
-DPName,CH_Orbe_ELEG_FOR,CH_Orbe_WAEF_FOR,CH_Orbe_WASG_FOR
-Actual Source name,CH_Orbe_ELEG_FOR,CH_Orbe_WAEF_FOR,CH_Orbe_WASG_FOR
-Location,CH_Orbe,CH_Orbe,CH_Orbe
-Description,Active energy plant input,Total external heat energy,Water supply at plant entrance
-Unit,kW,kW,m3/h
-Agg. Unit,kWh,kWh,m3
-Interpolation mode,LINEAR,DISCRETE,LINEAR
-Aggregation mode,SUMHRMED,SUMHRMED,SUMHRMED
-Factor,1,1,1
-Status,ACTIVE,ACTIVE,ACTIVE
-Type,UNKNOWN,UNKNOWN,UNKNOWN
-Remark,,,
-Actual DP name,CH_Orbe_ELEG_FOR,CH_Orbe_WAEF_FOR,CH_Orbe_WASG_FOR
-Ext. System ID,,,
-Ext. System Group,,,
-PrimaryKey,21627,21639,21635
-DP Class,,,
-Formula, [medas_Bell.E_1_01_Eewe_HORB_RP]  ,[CH_Orbe_Box.V_W_1_01_RP]* ifnulllast([CH_Orbe_Waerme.CH_Orbe_Wega_Heizwert_HAND] ),[CH_Orbe_Box.V_D_1_01_RP]
-Def. Source,,,
-Compute on,RAW,RAW,RAW
-Timestamp:,,,
+ts,Active energy plant input,Total external heat energy,Water supply at plant entrance
 2020-01-01 00:15:00,350,,
 2020-01-01 00:30:00,328,,
 2020-01-01 00:45:00,338,,
