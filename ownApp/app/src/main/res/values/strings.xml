@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">newAppStartHack</string>
+    <string name="title_home">Social</string>
+    <string name="title_dashboard">Add</string>
+    <string name="title_notifications">Learn</string>
+</resources>
